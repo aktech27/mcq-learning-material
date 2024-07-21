@@ -1,0 +1,41 @@
+img {
+  max-width: 300px;
+  height: auto;
+}
+
+.container {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.mcq-box {
+  margin: 10px 15px;
+  padding: 0.75rem 0.25rem;
+  border-bottom-width: 2px;
+  border-bottom-style: dashed;
+  border-bottom-color: grey;
+}
+
+.qc {
+  font-size: 16px;
+}
+
+.opts {
+  font-size: 10px;
+  text-align: right;
+  font-style: italic;
+  text-overflow: clip;
+  margin-bottom: 5px;
+}
+
+.answer-box {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.exp-box {
+  width: 90%;
+  border: 1px solid gray;
+  margin: 10px auto;
+  font-size: 10px;
+}
