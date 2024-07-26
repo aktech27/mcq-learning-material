@@ -8831,7 +8831,1238 @@ const ca2 = [
   }
 ];
 
-const ca3 = [];
+const ca3 = [
+  {
+    "id": 4501117,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 1,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which opearting uses uses Linux architecture?\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Which operating uses uses Linux architecture?</span>",
+    "answers": [
+      {
+        "id": 6324,
+        "text": "Symbian"
+      },
+      {
+        "id": 9323,
+        "text": "Ubuntu"
+      },
+      {
+        "id": 13835,
+        "text": "DOS"
+      },
+      {
+        "id": 97963,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "9323",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 9323
+  },
+  {
+    "id": 4501118,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 2,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"ls command is used for listing ______\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>ls command is used for listing ______</span>",
+    "answers": [
+      {
+        "id": 27010,
+        "text": "Files"
+      },
+      {
+        "id": 96280,
+        "text": "Directories"
+      },
+      {
+        "id": 78121,
+        "text": "both (a) and (b)"
+      },
+      {
+        "id": 29321,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "78121",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 78121
+  },
+  {
+    "id": 4501119,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 3,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Chmod is used for _________\"}' data-sheets-userformat='{\"2\":15165,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Chmod is used for _________</span>",
+    "answers": [
+      {
+        "id": 45118,
+        "text": "Changing permission"
+      },
+      {
+        "id": 27581,
+        "text": "Identifying permission"
+      },
+      {
+        "id": 96797,
+        "text": "setting default perission"
+      },
+      {
+        "id": 71071,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "45118",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 45118
+  },
+  {
+    "id": 4501120,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 4,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"ls -I is used to fetch _______\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>ls -I is used to fetch _______</span>",
+    "answers": [
+      {
+        "id": 29799,
+        "text": "File information"
+      },
+      {
+        "id": 48363,
+        "text": "File indentity"
+      },
+      {
+        "id": 69323,
+        "text": "file I node numer"
+      },
+      {
+        "id": 46379,
+        "text": "fie I node numer"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "29799",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 69323
+  },
+  {
+    "id": 4501121,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 5,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which command is used for creating soft links to a file?\"}' data-sheets-userformat='{\"2\":15165,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Which command is used for creating soft links to a file?</span>",
+    "answers": [
+      {
+        "id": 64555,
+        "text": "ls -n"
+      },
+      {
+        "id": 53765,
+        "text": "ln -s"
+      },
+      {
+        "id": 41220,
+        "text": "ln"
+      },
+      {
+        "id": 83110,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "53765",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 53765
+  },
+  {
+    "id": 4501122,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 6,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"ps command is used for \"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>ps command is used for </span>",
+    "answers": [
+      {
+        "id": 6297,
+        "text": "Status of all proccesses under current user"
+      },
+      {
+        "id": 28442,
+        "text": "Status of all processes under all users"
+      },
+      {
+        "id": 83895,
+        "text": "both (a) and (b)"
+      },
+      {
+        "id": 97634,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "83895",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 6297
+  },
+  {
+    "id": 4501123,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 7,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Pipe symbol is used for ______\"}' data-sheets-userformat='{\"2\":15165,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Pipe symbol is used for ______</span>",
+    "answers": [
+      {
+        "id": 99614,
+        "text": "Merging results of two commnads"
+      },
+      {
+        "id": 85713,
+        "text": "Seperating result of two commands"
+      },
+      {
+        "id": 62797,
+        "text": "replacing results of first command by second command"
+      },
+      {
+        "id": 90948,
+        "text": "for making output of first command as input to seocnd command"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "90948",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 90948
+  },
+  {
+    "id": 4501124,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 8,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"ps -a command gives those processes _____________\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>ps -a command gives those processes _____________</span>",
+    "answers": [
+      {
+        "id": 81741,
+        "text": "Which are associated with the terminal"
+      },
+      {
+        "id": 34434,
+        "text": "Which are not associated with the terminal"
+      },
+      {
+        "id": 60816,
+        "text": "it is not for termianl it is for user"
+      },
+      {
+        "id": 56362,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "34434",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 34434
+  },
+  {
+    "id": 4501125,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 9,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Forking is used for creating _________\"}' data-sheets-userformat='{\"2\":15165,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Forking is used for creating _________</span>",
+    "answers": [
+      {
+        "id": 79565,
+        "text": "Parent processses"
+      },
+      {
+        "id": 79674,
+        "text": "Child processes"
+      },
+      {
+        "id": 8296,
+        "text": "sibling processes"
+      },
+      {
+        "id": 560,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "79674",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 79674
+  },
+  {
+    "id": 4501126,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 10,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Nice values is related to ________\"}' data-sheets-userformat='{\"2\":15165,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Nice values is related to ________</span>",
+    "answers": [
+      {
+        "id": 21209,
+        "text": "Process id"
+      },
+      {
+        "id": 41093,
+        "text": "Process priority"
+      },
+      {
+        "id": 711,
+        "text": "process scheduling"
+      },
+      {
+        "id": 82280,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "41093",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 41093
+  },
+  {
+    "id": 4501127,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 11,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Syntax of sort command is ______\"}' data-sheets-userformat='{\"2\":15165,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Syntax of sort command is ______</span>",
+    "answers": [
+      {
+        "id": 83841,
+        "text": "sort file_name"
+      },
+      {
+        "id": 66239,
+        "text": "sort user_name"
+      },
+      {
+        "id": 38332,
+        "text": "Either (a) or (b)"
+      },
+      {
+        "id": 50902,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "83841",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 83841
+  },
+  {
+    "id": 4501128,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 12,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"sort -f is used for ___________\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>sort -f is used for ___________</span>",
+    "answers": [
+      {
+        "id": 93542,
+        "text": "Displaying capital case letters first"
+      },
+      {
+        "id": 60720,
+        "text": "Displaying small case letters first"
+      },
+      {
+        "id": 91191,
+        "text": "it has nothing to do with cases"
+      },
+      {
+        "id": 46592,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "93542",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 93542
+  },
+  {
+    "id": 4501129,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 13,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"grep -I is used for ________\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>grep -I is used for ________</span>",
+    "answers": [
+      {
+        "id": 92787,
+        "text": "Making grep command case insensitive"
+      },
+      {
+        "id": 54058,
+        "text": "Making grep command case sensitive"
+      },
+      {
+        "id": 21347,
+        "text": "making grep command based on numbers"
+      },
+      {
+        "id": 9964,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "92787",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 92787
+  },
+  {
+    "id": 4501130,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 14,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"which command is used for evaluating arithmetic expressions \"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Which command is used for evaluating arithmetic expressions </span>",
+    "answers": [
+      {
+        "id": 97532,
+        "text": "Ari command"
+      },
+      {
+        "id": 64923,
+        "text": "exp command"
+      },
+      {
+        "id": 1861,
+        "text": "expr command"
+      },
+      {
+        "id": 6645,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "1861",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 1861
+  },
+  {
+    "id": 4501131,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 15,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"An operator named -gt is used for which operations?\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>An operator named -gt is used for which operations?</span>",
+    "answers": [
+      {
+        "id": 61310,
+        "text": "Greater than"
+      },
+      {
+        "id": 10497,
+        "text": "Greater than or equal to"
+      },
+      {
+        "id": 12652,
+        "text": "Either (a) or (b)"
+      },
+      {
+        "id": 5720,
+        "text": "None of the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "61310",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 61310
+  },
+  {
+    "id": 4501132,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 16,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"How mnay files are used for standard redirection\"}' data-sheets-userformat='{\"2\":15165,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>How many files are used for standard redirection</span>",
+    "answers": [
+      {
+        "id": 24320,
+        "text": "2"
+      },
+      {
+        "id": 53925,
+        "text": "1"
+      },
+      {
+        "id": 5380,
+        "text": "3"
+      },
+      {
+        "id": 35093,
+        "text": "4"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "5380",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 5380
+  },
+  {
+    "id": 4501133,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 17,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"What is the exit status of command on bieng successful?\"}' data-sheets-userformat='{\"2\":15165,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"12\":0,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>What is the exit status of command on being successful?</span>",
+    "answers": [
+      {
+        "id": 68325,
+        "text": "0"
+      },
+      {
+        "id": 10922,
+        "text": "2"
+      },
+      {
+        "id": 58216,
+        "text": "1"
+      },
+      {
+        "id": 23686,
+        "text": "3"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "68325",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 58216
+  },
+  {
+    "id": 4501134,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 18,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Sairam was asked to write all the inode number of files in a directory. For this which of the following flags could Sriram use with ls command to do the same ? \"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Sairam was asked to write all the inode number of files in a directory. For this which of the following flags could Sriram use with ls command to do the same ? </span>",
+    "answers": [
+      {
+        "id": 13991,
+        "text": "-a"
+      },
+      {
+        "id": 46411,
+        "text": "-i"
+      },
+      {
+        "id": 23179,
+        "text": "-l"
+      },
+      {
+        "id": 7679,
+        "text": "-o"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "46411",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 46411
+  },
+  {
+    "id": 4501135,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 19,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Ramu was asked to write a command to simply display all the content of a very big file bigFile.txt onto the terminal. This is helpful for the systems that do not have a vi/vim editor to view the files. Which of the following commands is most suitable for the given situation?\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'>Ramu was asked to write a command to simply display all the content of a very big file bigFile.txt onto the terminal. This is helpful for the systems that do not have a vi/vim editor to view the files. Which of the following commands is most suitable for the given situation?</span>",
+    "answers": [
+      {
+        "id": 80772,
+        "text": "gedit bigFile.txt"
+      },
+      {
+        "id": 20950,
+        "text": "cat bigFile.txt"
+      },
+      {
+        "id": 28543,
+        "text": "cat bigFile.txt | more"
+      },
+      {
+        "id": 68990,
+        "text": "vim bigFile.txt"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "28543",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 28543
+  },
+  {
+    "id": 4501136,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 20,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\" Laxman was asked to make a validation function for names for a website. The function will be using a pattern, which will be used to compare patterns with the input argument. If that pattern matches, the function should return true or false. Which among the following patterns can Laxman use if the name should be more than 6 alphanumeric characters? (Note: The validation function also allows names to have any characters. Mark the appropriate option among the following)\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Arial\",\"16\":10}'> Laxman was asked to make a validation function for names for a website. The function will be using a pattern, which will be used to compare patterns with the input argument. If that pattern matches, the function should return true or false. Which among the following patterns can Laxman use if the name should be more than 6 alphanumeric characters? (Note: The validation function also allows names to have any characters. Mark the appropriate option among the following)</span>",
+    "answers": [
+      {
+        "id": 53575,
+        "text": "??????*"
+      },
+      {
+        "id": 2988,
+        "text": "*"
+      },
+      {
+        "id": 52485,
+        "text": "?*"
+      },
+      {
+        "id": 5259,
+        "text": "a-z][a-z][a-z][a-z][a-z][a-z]*"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "53575",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 53575
+  },
+  {
+    "id": 4501137,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 21,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Sharmaji wanted to make a registration page for his website. For this, he added jquery validation to his website. Thus he came up with a jquery validation. His validation allows either to set any 5 digit number, or any 4 characters followed by ‘?’. Which of the following patterns did Sharma Ji use? Mark the most appropriate option.\"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>Sharmaji wanted to make a registration page for his website. For this, he added jquery validation to his website. Thus he came up with a jquery validation. His validation allows either to set any 5 digit number, or any 4 characters followed by ‘?’. Which of the following patterns did Sharma Ji use? Mark the most appropriate option.</span>",
+    "answers": [
+      {
+        "id": 97533,
+        "text": "[[0-9][0-9][0-9][0-9][0-9], *?]"
+      },
+      {
+        "id": 99058,
+        "text": "[[0-9][0-9][0-9][0-9][0-9], ????*\\?]"
+      },
+      {
+        "id": 87006,
+        "text": "[[0-9][0-9][0-9][0-9][0-9],*\\?]"
+      },
+      {
+        "id": 97236,
+        "text": "[[0-9][0-9][0-9][0-9][0-9]]"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "99058",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 99058
+  },
+  {
+    "id": 4501138,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 22,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Saroj, a lead internet operator in BSNL Fiber Optics center. As a lead operator, she was informed about some criminal activity in one of her regions. She took the matter into her own hands and tried to list down all the possible ip addresses in the network to get to the culprit. All the IP addresses in her allotted IPs start with 112.233.212.xxx. Based on the Host ids, the last *** is alloted. Having some idea about the region of attack origination, she was sure that the first digit from the last section will be one out of [8,7,3], and the last digit will not be among [7,6,5]. Which among the following patterns is an appropriate search parameter for filtering out IP address?  \"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>Saroj, a lead internet operator in BSNL Fiber Optics center. As a lead operator, she was informed about some criminal activity in one of her regions. She took the matter into her own hands and tried to list down all the possible ip addresses in the network to get to the culprit. All the IP addresses in her allotted IPs start with 112.233.212.xxx. Based on the Host ids, the last *** is alloted. Having some idea about the region of attack origination, she was sure that the first digit from the last section will be one out of [8,7,3], and the last digit will not be among [7,6,5]. Which among the following patterns is an appropriate search parameter for filtering out IP address? </span>",
+    "answers": [
+      {
+        "id": 68726,
+        "text": "112.233.212.[1-9][1-9][1-9]"
+      },
+      {
+        "id": 92251,
+        "text": "112.233.212.[873]*[?567]"
+      },
+      {
+        "id": 17766,
+        "text": "112.233.212.[873]?[^567]"
+      },
+      {
+        "id": 18237,
+        "text": "112.233.212.[873]*[^567]"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "17766",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 17766
+  },
+  {
+    "id": 4501139,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 23,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which among the following commands could not be used to determine the type of process (Zombie, init, Sleep) in the Linux Based Operating system. Mark the most appropriate option?\"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>Which among the following commands could not be used to determine the type of process (Zombie, init, Sleep) in the Linux Based Operating system. Mark the most appropriate option?</span>",
+    "answers": [
+      {
+        "id": 50072,
+        "text": "ps -ax"
+      },
+      {
+        "id": 89819,
+        "text": "ps -aux"
+      },
+      {
+        "id": 14129,
+        "text": "ps -a"
+      },
+      {
+        "id": 94666,
+        "text": "ps -x"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "94666",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 14129
+  },
+  {
+    "id": 4501140,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 24,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which of the commands among the following could be used by the user to check the ongoing user created program? The command should also allow the user to also view Process ID .\"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>Which of the commands among the following could be used by the user to check the ongoing user created program? The command should also allow the user to also view Process ID .</span>",
+    "answers": [
+      {
+        "id": 36301,
+        "text": "ls"
+      },
+      {
+        "id": 3300,
+        "text": "jobs"
+      },
+      {
+        "id": 73772,
+        "text": "dir"
+      },
+      {
+        "id": 3127,
+        "text": "Ps"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "3127",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 3300
+  },
+  {
+    "id": 4501141,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 25,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which of the following commands could be used to show a list of processes which are not associated with the terminal? (Hint: the same command also does not give a state attribute upon execution for each process).\"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>Which of the following commands could be used to show a list of processes which are not associated with the terminal? (Hint: the same command also does not give a state attribute upon execution for each process).</span>",
+    "answers": [
+      {
+        "id": 70995,
+        "text": "ps -x"
+      },
+      {
+        "id": 14930,
+        "text": "ps -A"
+      },
+      {
+        "id": 68117,
+        "text": "ps -a"
+      },
+      {
+        "id": 33497,
+        "text": "ps -aux --terminal"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "68117",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 68117
+  },
+  {
+    "id": 4501142,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 26,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Shakti wants to display all the ongoing processes. He is only interested in Memory and CPU consumption against PID attributes. Which among the following commands is the most appropriate command for the same? \"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>Shakti wants to display all the ongoing processes. He is only interested in Memory and CPU consumption against PID attributes. Which among the following commands is the most appropriate command for the same? </span>",
+    "answers": [
+      {
+        "id": 29591,
+        "text": "ps -eo pid,%mem"
+      },
+      {
+        "id": 47152,
+        "text": "ps -eo pid,%mem,%cpu"
+      },
+      {
+        "id": 29362,
+        "text": "ps -eo pid, %cpu"
+      },
+      {
+        "id": 23949,
+        "text": "ps -eo pid, %cpu mem"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "47152",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 47152
+  },
+  {
+    "id": 4501143,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 27,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"John has wrongly entered the word ‘recess’ instead of the word ‘exam’. Now he needs to find the word and replace it, else he would be in huge trouble. But every time he searches for the word ‘exam’, he also comes across the word ‘example’. Now which grep command would you suggest John, to save him from the trouble?\"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>John has wrongly entered the word ‘recess’ instead of the word ‘exam’. Now he needs to find the word and replace it, else he would be in huge trouble. But every time he searches for the word ‘exam’, he also comes across the word ‘example’. Now which grep command would you suggest John, to save him from the trouble?</span>",
+    "answers": [
+      {
+        "id": 9512,
+        "text": "grep -f  “exam” filename"
+      },
+      {
+        "id": 89625,
+        "text": "grep -w  “exam” filename"
+      },
+      {
+        "id": 58255,
+        "text": "grep -f  “example” filename"
+      },
+      {
+        "id": 63433,
+        "text": "grep -r  “exam” filename"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "89625",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 89625
+  },
+  {
+    "id": 4501144,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 28,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Fida wants to find the name of the present working directory, The list of files present in it, and the current date. She decides to fetch their results together (multiple command option). But every time she executes, only the current date is returned. What command must she have used?\"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>Fida wants to find the name of the present working directory, The list of files present in it, and the current date. She decides to fetch their results together (multiple command option). But every time she executes, only the current date is returned. What command must she have used?</span>",
+    "answers": [
+      {
+        "id": 88168,
+        "text": "pwd ; ls ; date"
+      },
+      {
+        "id": 20817,
+        "text": "PWD && ls ; date"
+      },
+      {
+        "id": 31128,
+        "text": "pwd && ls || DATE"
+      },
+      {
+        "id": 84863,
+        "text": "PWD || Ls || date"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "84863",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 84863
+  },
+  {
+    "id": 4501145,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 29,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Emily’s professor sent her two files. She stored the file named assignment in the directory called class and the other file named review in the directory called project. She then copied the review file to the assignment file, using the command ‘$ cp assignment.txt review.txt’ but an error was returned. What would have happened?\"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>Emily’s professor sent her two files. She stored the file named assignment in the directory called class and the other file named review in the directory called project. She then copied the review file to the assignment file, using the command ‘$ cp assignment.txt review.txt’ but an error was returned. What would have happened?</span>",
+    "answers": [
+      {
+        "id": 14207,
+        "text": "Review file contained numeric characters instead of text."
+      },
+      {
+        "id": 78342,
+        "text": "To use the cp command both the files should be present in the current working directory."
+      },
+      {
+        "id": 62526,
+        "text": "There is no command named cp, to copy files."
+      },
+      {
+        "id": 92308,
+        "text": "To use the cp command one of the files should be present in the current working directory."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "78342",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 78342
+  },
+  {
+    "id": 4501146,
+    "quiz_id": 931922,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 30,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Choose the correct command to grant permission to file making it executable.\"}' data-sheets-userformat='{\"2\":12607,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"15\":\"Arial\",\"16\":10}'>Choose the correct command to grant permission to file making it executable.</span>",
+    "answers": [
+      {
+        "id": 51686,
+        "text": "chmod+u"
+      },
+      {
+        "id": 3581,
+        "text": "chmod+w"
+      },
+      {
+        "id": 2240,
+        "text": "chmod+r"
+      },
+      {
+        "id": 78635,
+        "text": "chmod+x"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "78635",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 78635
+  }
+];
 
 const compiled = [
   ...unit1,
@@ -8851,6 +10082,7 @@ const compiled = [
   ...unit15,
   ...ca1,
   ...ca2,
+  ...ca3,
 ];
 
 

@@ -8138,7 +8138,1242 @@ const ca2 = [
   }
 ];
 
-const ca3 = [];
+const ca3 = [
+  {
+    "id": 4503243,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 1,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>A graph in which all vertices are of same degree is called a</span>",
+    "answers": [
+      {
+        "id": 10194,
+        "text": "Regular Graph"
+      },
+      {
+        "id": 18125,
+        "text": "Complete Graph"
+      },
+      {
+        "id": 83228,
+        "text": "Bipartite Graph"
+      },
+      {
+        "id": 54624,
+        "text": "Multi Graph"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "10194",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 10194
+  },
+  {
+    "id": 4503244,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 2,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>In a graph, an edge which is drawn from </span><strong>a vertex to itself</strong><span><span> </span>is called a</span>",
+    "answers": [
+      {
+        "id": 16438,
+        "text": "Point"
+      },
+      {
+        "id": 77710,
+        "text": "Edge"
+      },
+      {
+        "id": 24255,
+        "text": "Loop"
+      },
+      {
+        "id": 1581,
+        "text": "Vertex"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "24255",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 24255
+  },
+  {
+    "id": 4503245,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 3,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>A </span><strong>pie diagram</strong><span><span> </span>is also called</span>",
+    "answers": [
+      {
+        "id": 12408,
+        "text": "Pictogram"
+      },
+      {
+        "id": 1429,
+        "text": "Angular Diagram"
+      },
+      {
+        "id": 66126,
+        "text": "Line diagram"
+      },
+      {
+        "id": 62329,
+        "text": "Bar Diagram"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "1429",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 1429
+  },
+  {
+    "id": 4503246,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 4,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>A tabular arrangement for classifying data into different groups is called ?</span>",
+    "answers": [
+      {
+        "id": 53122,
+        "text": "Frequency Polygon"
+      },
+      {
+        "id": 37426,
+        "text": "Standard Deviation"
+      },
+      {
+        "id": 16614,
+        "text": "Arithmetic Mean"
+      },
+      {
+        "id": 93631,
+        "text": "Class Mean"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "53122",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 53122
+  },
+  {
+    "id": 4503247,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 5,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>A Euler circuit of a graph contains</span>",
+    "answers": [
+      {
+        "id": 36425,
+        "text": "All vertices and all edges of the graph."
+      },
+      {
+        "id": 29978,
+        "text": "Only all vertices of the graph"
+      },
+      {
+        "id": 39532,
+        "text": "Only few edges of the graph"
+      },
+      {
+        "id": 7495,
+        "text": "Only few vertices of the graph"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "36425",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 36425
+  },
+  {
+    "id": 4503248,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 6,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>A pie chart has to been drawn representing the following data.</p>\n<p><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465235/preview?verifier=iqlvmfrljEb8HYgFZzDlXzrEXwsb78iJgyfaRuXQ\" alt=\"Screenshot (605).png\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465235\" data-api-returntype=\"File\"></p>\n<p>What is the value of the angle on the pie chart for the<span> </span><strong>food and clothing</strong><span> </span>section ?</p>\n",
+    "answers": [
+      {
+        "id": 58580,
+        "text": "180"
+      },
+      {
+        "id": 36276,
+        "text": "150"
+      },
+      {
+        "id": 88666,
+        "text": "90"
+      },
+      {
+        "id": 68999,
+        "text": "144"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "68999",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 68999
+  },
+  {
+    "id": 4503249,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 7,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>What is the objective of Data Tabulation. Choose the correct statements.</p>\n<ol>\n<li>It helps to present data in a easy to understand fashion</li>\n<li>It helps to generate meaningful insights</li>\n<li>It makes identifying patterns and trends in data more complex</li>\n</ol>\n",
+    "answers": [
+      {
+        "id": 159,
+        "text": "(1) and (2) is correct"
+      },
+      {
+        "id": 78428,
+        "text": "(1) and (3) is correct"
+      },
+      {
+        "id": 52463,
+        "text": "(2) and (3) is correct"
+      },
+      {
+        "id": 10244,
+        "text": "All (1), (2) and (3) is correct"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "159",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 159
+  },
+  {
+    "id": 4503250,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 8,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>Consider the following distribution of marks for a class of 25 students. The full marks of the test was 10.</p>\n<p><strong>5, 4, 6, 7, 7, 5, 9, 8, 7, 0, 3, 8, 8, 9, 6, 5, 2, 5, 7, 9, 10, 2, 4, 6, 7 </strong></p>\n<p>What is the marks with the highest frequency ?</p>\n",
+    "answers": [
+      {
+        "id": 51295,
+        "text": "8"
+      },
+      {
+        "id": 10634,
+        "text": "5"
+      },
+      {
+        "id": 37129,
+        "text": "6"
+      },
+      {
+        "id": 89782,
+        "text": "7"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "89782",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 89782
+  },
+  {
+    "id": 4503251,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 9,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p><span>Levi takes a bike to work everyday. The roads being open, he rides at a speed of 90kmph while going for work and at 70kmph while returning to home.</span></p>\n<p><span>With respect to this, which of the following correctly estimates the average speed of Levi using Arithmetic and Harmonic mean?</span></p>\n",
+    "answers": [
+      {
+        "id": 92108,
+        "text": "60kmph and 78.75 kmph"
+      },
+      {
+        "id": 26625,
+        "text": "80kmph and 45.75 kmph"
+      },
+      {
+        "id": 9963,
+        "text": "60kmph and 45.75 kmph"
+      },
+      {
+        "id": 83825,
+        "text": "80kmph and 78.75 kmph"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "83825",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 83825
+  },
+  {
+    "id": 4503252,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 10,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>Two graphs are homomorphic, if and only if</span>",
+    "answers": [
+      {
+        "id": 27015,
+        "text": "If one can’t obtain by the fusion of edges of another graph or vice versa."
+      },
+      {
+        "id": 236,
+        "text": "If one can obtained by the fusion of edges of another graph or vice versa."
+      },
+      {
+        "id": 66825,
+        "text": "If they have same number of vertices."
+      },
+      {
+        "id": 6579,
+        "text": "If they have same number of edges."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "236",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 236
+  },
+  {
+    "id": 4503253,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 11,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>The given graph is</p>\n<p><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465247/preview?verifier=nzvMUf7Ha6UlZzfQn1Uc0tYMne0h7NJd7MP0dyx1\" alt=\"Screenshot (557).png\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465247\" data-api-returntype=\"File\"></p>\n",
+    "answers": [
+      {
+        "id": 8696,
+        "text": "Only Hamiltonian Graph"
+      },
+      {
+        "id": 35536,
+        "text": "Both Euler and Hamiltonian Graphs"
+      },
+      {
+        "id": 83497,
+        "text": "None of these"
+      },
+      {
+        "id": 11143,
+        "text": "Only Euler Graph"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "8696",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 8696
+  },
+  {
+    "id": 4503254,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 12,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465246/preview?verifier=Z4PkUFeZcvlXBgy7ncsW8b8cFoyIqKX4cDzG466H\" alt=\"Screenshot (559).png\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465246\" data-api-returntype=\"File\"></p>\n<p>What is the radius of this graph ?</p>\n",
+    "answers": [
+      {
+        "id": 21633,
+        "text": "2"
+      },
+      {
+        "id": 80034,
+        "text": "5"
+      },
+      {
+        "id": 3415,
+        "text": "4"
+      },
+      {
+        "id": 39949,
+        "text": "3"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "21633",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 39949
+  },
+  {
+    "id": 4503255,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 13,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465246/preview?verifier=Z4PkUFeZcvlXBgy7ncsW8b8cFoyIqKX4cDzG466H\" alt=\"Screenshot (559).png\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465246\" data-api-returntype=\"File\"></p>\n<p>What is the diameter of this graph ?</p>\n",
+    "answers": [
+      {
+        "id": 73830,
+        "text": "5"
+      },
+      {
+        "id": 95392,
+        "text": "6"
+      },
+      {
+        "id": 63416,
+        "text": "4"
+      },
+      {
+        "id": 80753,
+        "text": "3"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "63416",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 73830
+  },
+  {
+    "id": 4503256,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 14,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>Use the following pie chart to answer these questions on the age-wise distributions of personal income of country in the year 2002.</p>\n<p><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465245/preview?verifier=sqHINK1bpsKd4a0ebfAh1veqoeylQgofOXcNOq6e\" alt=\"Screenshot (561).png\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465245\" data-api-returntype=\"File\"></p>\n<p>In 2002, what was the approximate personal income in billions of rupees of the Age group 35-44 years?</p>\n",
+    "answers": [
+      {
+        "id": 41654,
+        "text": "400"
+      },
+      {
+        "id": 41078,
+        "text": "1125"
+      },
+      {
+        "id": 89422,
+        "text": "500"
+      },
+      {
+        "id": 92179,
+        "text": "600"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "89422",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 89422
+  },
+  {
+    "id": 4503257,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 15,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>Use the following pie chart to answer these questions on the age-wise distributions of personal income of country in the year 2002.</p>\n<p><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465245/preview?verifier=sqHINK1bpsKd4a0ebfAh1veqoeylQgofOXcNOq6e\" alt=\"Screenshot (561).png\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465245\" data-api-returntype=\"File\"></p>\n<p>What is the ratio of the personal income of the age group 25-34 to that of the Age group 35-44?</p>\n",
+    "answers": [
+      {
+        "id": 25535,
+        "text": "5 : 6"
+      },
+      {
+        "id": 6710,
+        "text": "9 : 4"
+      },
+      {
+        "id": 53199,
+        "text": "6 : 5"
+      },
+      {
+        "id": 51068,
+        "text": "4 : 9"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "53199",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 53199
+  },
+  {
+    "id": 4503258,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 16,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>Find the weight of MST for the given graph</p>\n<p><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465243/preview?verifier=PSk1Mhsp2lccd5YVkJehoZ1NN0hiI8P6zt80aJG0\" alt=\"img2.png\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465243\" data-api-returntype=\"File\"></p>\n",
+    "answers": [
+      {
+        "id": 78702,
+        "text": "100"
+      },
+      {
+        "id": 65430,
+        "text": "99"
+      },
+      {
+        "id": 42811,
+        "text": "101"
+      },
+      {
+        "id": 90739,
+        "text": "96"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "90739",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 65430
+  },
+  {
+    "id": 4503259,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 17,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>Which of the following is a planar graph ? (K</span><sub>n, m</sub><span><span> </span>is a bipartite graph)</span>",
+    "answers": [
+      {
+        "id": 78779,
+        "text": "K3, 4",
+        "html": "<span>K</span><sub>3, 4</sub>"
+      },
+      {
+        "id": 78133,
+        "text": "K3, 3",
+        "html": "<span>K</span><sub>3, 3</sub>"
+      },
+      {
+        "id": 89475,
+        "text": "K4, 3",
+        "html": "<span>K</span><sub>4, 3</sub>"
+      },
+      {
+        "id": 71132,
+        "text": "K2, 3",
+        "html": "<span>K</span><sub>2, 3</sub>"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "78779",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 71132
+  },
+  {
+    "id": 4503260,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 18,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>Which of the following lists of numbers has its median closest to 10?</span>",
+    "answers": [
+      {
+        "id": 29120,
+        "text": "9.8, 6.9, 4.6, 10.4, 11.2"
+      },
+      {
+        "id": 63340,
+        "text": "8.8, 9.0, 5.2, 9.6, 13.5"
+      },
+      {
+        "id": 72712,
+        "text": "5.8, 11.4, 5.6, 11.9, 2.9"
+      },
+      {
+        "id": 67672,
+        "text": "12.3, 3.4, 7.5, 5.7, 5.4"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "29120",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 29120
+  },
+  {
+    "id": 4503261,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 19,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p><span>Calculate the Mean Median and Mode for the following Data:</span></p>\n<p><span>Red Raven, a T shirt business has sold Cricket t-shirts in the following distribution:</span></p>\n<p><span> </span></p>\n<table>\n<tbody>\n<tr>\n<td>\n<p><strong>Units Sold</strong></p>\n</td>\n<td>\n<p><strong>Frequency</strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span>1</span></p>\n</td>\n<td>\n<p><span>13</span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span>2</span></p>\n</td>\n<td>\n<p><span>16</span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span>3</span></p>\n</td>\n<td>\n<p><span>15</span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span>4</span></p>\n</td>\n<td>\n<p><span>7</span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span>5</span></p>\n</td>\n<td>\n<p><span>8</span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span>6</span></p>\n</td>\n<td>\n<p><span>3</span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><span>10</span></p>\n</td>\n<td>\n<p><span>1</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><span>Choose the correct option in order of Mean, Median, Mode:</span></p>\n",
+    "answers": [
+      {
+        "id": 31077,
+        "text": "5.1, 3, 2"
+      },
+      {
+        "id": 57034,
+        "text": "2.95, 2, 3"
+      },
+      {
+        "id": 46116,
+        "text": "2.95, 3, 2"
+      },
+      {
+        "id": 17685,
+        "text": "5.1, 2,3"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "31077",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 46116
+  },
+  {
+    "id": 4503262,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 20,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>The heights of a group of 10 students are given as 150, 183, 190, 160, 188, 178, 163, 177, 192, 165 in centimetres. What is the average height and variance of the people living in the area?</span>",
+    "answers": [
+      {
+        "id": 23497,
+        "text": "168, 150.4"
+      },
+      {
+        "id": 95712,
+        "text": "174.6, 205.8"
+      },
+      {
+        "id": 80074,
+        "text": "166, 116.5"
+      },
+      {
+        "id": 43817,
+        "text": "155, 250.4"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "95712",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 95712
+  },
+  {
+    "id": 4503263,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 21,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>What is the variance of weights of 5 students whose weights are in Arithmetic progression starting with 50kgs and a mean difference of 5kgs ?</span>",
+    "answers": [
+      {
+        "id": 32605,
+        "text": "66.5"
+      },
+      {
+        "id": 89466,
+        "text": "62.5"
+      },
+      {
+        "id": 26995,
+        "text": "50.5"
+      },
+      {
+        "id": 92313,
+        "text": "60.5"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "89466",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 89466
+  },
+  {
+    "id": 4503264,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 22,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>Consider the following cumulative distribution of marks.</p>\n<p><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465275/preview?verifier=jDWPcHEfm4rMMA0ZgnHYpmjVzRJjQrXrxVbseThQ\" alt=\"Screenshot (389).png\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465275\" data-api-returntype=\"File\"></p>\n<p>What is the marks, which<span> </span><strong>no Student or 0 students</strong> have scored ?</p>\n",
+    "answers": [
+      {
+        "id": 5223,
+        "text": "4"
+      },
+      {
+        "id": 82463,
+        "text": "3"
+      },
+      {
+        "id": 14741,
+        "text": "2"
+      },
+      {
+        "id": 24962,
+        "text": "10"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "82463",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 82463
+  },
+  {
+    "id": 4503265,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 23,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>Which of the following statements is true about the arithmetic mean (AM), geometric mean (GM) and harmonic mean (HM) for any list of numbers?</span>",
+    "answers": [
+      {
+        "id": 58165,
+        "text": "AM >=  GM<=  HM"
+      },
+      {
+        "id": 78895,
+        "text": "AM  >= GM >= HM"
+      },
+      {
+        "id": 87178,
+        "text": "AM  <= GM <= HM"
+      },
+      {
+        "id": 83308,
+        "text": "AM >=  GM = HM"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "87178",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 78895
+  },
+  {
+    "id": 4503266,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 24,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p><span>Find the chromatic number for the following graph.</span></p>\n<p><span><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465349/preview?verifier=9Cr1ac8iVb9Jm05MZv3o2uYmYIBtNL4lYWF1TQ8i\" alt=\"Screenshot (202).png\" width=\"136\" height=\"102\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465349\" data-api-returntype=\"File\"></span></p>\n",
+    "answers": [
+      {
+        "id": 30885,
+        "text": "3"
+      },
+      {
+        "id": 94323,
+        "text": "1"
+      },
+      {
+        "id": 63002,
+        "text": "2"
+      },
+      {
+        "id": 62228,
+        "text": "5"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "30885",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 63002
+  },
+  {
+    "id": 4503267,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 25,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>What kind of table is the following table</p>\n<p><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465278/preview?verifier=MHZ3W44ZCsB9LbDsPuZxdyyoWsiX80JrKfulXnhZ\" alt=\"Screenshot (383).png\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465278\" data-api-returntype=\"File\"></p>\n",
+    "answers": [
+      {
+        "id": 54196,
+        "text": "none of these"
+      },
+      {
+        "id": 48818,
+        "text": "Three way table"
+      },
+      {
+        "id": 7315,
+        "text": "Simple table"
+      },
+      {
+        "id": 23022,
+        "text": "Two way table"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "48818",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 23022
+  },
+  {
+    "id": 4503268,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 26,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>The travelling salesman problem is a _____ problem in graph theory.</span>",
+    "answers": [
+      {
+        "id": 20770,
+        "text": "Ranking"
+      },
+      {
+        "id": 6890,
+        "text": "None of these"
+      },
+      {
+        "id": 42380,
+        "text": "Optimization"
+      },
+      {
+        "id": 45855,
+        "text": "Weighted"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "42380",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 42380
+  },
+  {
+    "id": 4503269,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 27,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>Choose the correct statement.</span>",
+    "answers": [
+      {
+        "id": 99580,
+        "text": "A graph contains (n-1) edges and is always bi-chromatic."
+      },
+      {
+        "id": 52105,
+        "text": "A graph contains (n-2) edges and is always bipartite."
+      },
+      {
+        "id": 40528,
+        "text": "None of the above"
+      },
+      {
+        "id": 55978,
+        "text": "A graph contains (n-1) edges and is always multi-chromatic."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "99580",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 99580
+  },
+  {
+    "id": 4503270,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 28,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p><span>Find the depth of the vertex ‘e’ for the graph</span></p>\n<p><span><img src=\"https://olympus.mygreatlearning.com/courses/105762/files/9465351/preview?verifier=HP1m6Rtu5rDaGFcHbE0gF4yQfAN2AgYWvwfyNXRP\" alt=\"Screenshot (200).png\" width=\"250\" height=\"191\" data-api-endpoint=\"https://olympus.mygreatlearning.com/api/v1/courses/105762/files/9465351\" data-api-returntype=\"File\"></span></p>\n",
+    "answers": [
+      {
+        "id": 65440,
+        "text": "1"
+      },
+      {
+        "id": 41564,
+        "text": "4"
+      },
+      {
+        "id": 96974,
+        "text": "2"
+      },
+      {
+        "id": 68757,
+        "text": "3"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "96974",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 96974
+  },
+  {
+    "id": 4503271,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 29,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>Imagine a graph with 5 vertices and 2 components. What can be the possible number of edges in this graph ?</span>",
+    "answers": [
+      {
+        "id": 74206,
+        "text": "9"
+      },
+      {
+        "id": 61496,
+        "text": "5"
+      },
+      {
+        "id": 2384,
+        "text": "1"
+      },
+      {
+        "id": 80451,
+        "text": "13"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "2384",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 61496
+  },
+  {
+    "id": 4503272,
+    "quiz_id": 932440,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 30,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span>What is the size of a complete graph of order 6 ?</span>",
+    "answers": [
+      {
+        "id": 20176,
+        "text": "11"
+      },
+      {
+        "id": 36856,
+        "text": "14"
+      },
+      {
+        "id": 93639,
+        "text": "12"
+      },
+      {
+        "id": 30319,
+        "text": "15"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "30319",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 30319
+  }
+];
 
 const compiled = [
   ...unit1,
@@ -8158,6 +9393,7 @@ const compiled = [
   ...unit15,
   ...ca1,
   ...ca2,
+  ...ca3,
 ];
 
 

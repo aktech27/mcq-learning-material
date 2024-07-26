@@ -8890,7 +8890,1230 @@ const ca2 = [
   }
 ];
 
-const ca3 = [];
+const ca3 = [
+  {
+    "id": 4500662,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 1,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "The performance of a pipe-lined processor suffers if __",
+    "answers": [
+      {
+        "id": 69688,
+        "text": "The pipelined stages have different delays"
+      },
+      {
+        "id": 6652,
+        "text": "Consecutive instructions are dependent on each other"
+      },
+      {
+        "id": 71404,
+        "text": "The pipeline stages share hardware resources"
+      },
+      {
+        "id": 59478,
+        "text": "All the above"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "59478",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 59478
+  },
+  {
+    "id": 4500663,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 2,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "A 400 MHz processor was used to execute a benchmark program with the following instruction mix and clock cycle counts. If there are 450000 Integer arithmetic instructions. They require one clock cycle per instruction. If there are 450000 Integer arithmetic instructions. They require one clock cycle per instruction. If there are 320000  Data transfer instructions. They require two clock cycles per instruction. If there are 80000 control transfer instructions. They require two clock cycles per instruction. Determine the effective CPI.",
+    "answers": [
+      {
+        "id": 97016,
+        "text": "2.55"
+      },
+      {
+        "id": 67151,
+        "text": "1.55"
+      },
+      {
+        "id": 66893,
+        "text": "1.47"
+      },
+      {
+        "id": 94449,
+        "text": "2.47"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "66893",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 66893
+  },
+  {
+    "id": 4500664,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 3,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Pick the odd one out",
+    "answers": [
+      {
+        "id": 40857,
+        "text": "Weather forecasting"
+      },
+      {
+        "id": 67091,
+        "text": "Computer vision"
+      },
+      {
+        "id": 93031,
+        "text": "ATM Server of a bank"
+      },
+      {
+        "id": 29459,
+        "text": "Smart watch"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "67091",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 29459
+  },
+  {
+    "id": 4500665,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 4,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "To simulate a non-deterministic algorithm with a deterministic algorithm it requires",
+    "answers": [
+      {
+        "id": 90053,
+        "text": "Linear time"
+      },
+      {
+        "id": 81966,
+        "text": "Exponential time"
+      },
+      {
+        "id": 41353,
+        "text": "Neither exponential nor linear times"
+      },
+      {
+        "id": 85875,
+        "text": "Both exponential and linear times"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "85875",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 81966
+  },
+  {
+    "id": 4500666,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 5,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>What is the dependency between the S1 and S3 for the following set of statements?</p>\n<p>S1: Load R1, A.</p>\n<p>S2: Add R2,R1.</p>\n<p>S3: Move R1, R3.</p>\n<p>S4: Store B, R1.</p>\n",
+    "answers": [
+      {
+        "id": 93188,
+        "text": "Flow dependent"
+      },
+      {
+        "id": 92000,
+        "text": "Anti dependent"
+      },
+      {
+        "id": 58465,
+        "text": "IO dependent"
+      },
+      {
+        "id": 54577,
+        "text": "Output dependent"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "93188",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 54577
+  },
+  {
+    "id": 4500667,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 6,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>S1:  Dependencies prevent exploiting the parallelism.</p>\n<p>S2: Program restructuring or code transformations may allow parallelism.</p>\n",
+    "answers": [
+      {
+        "id": 14882,
+        "text": "S1, S2 both are true"
+      },
+      {
+        "id": 19480,
+        "text": "S1 False, S2 False"
+      },
+      {
+        "id": 53542,
+        "text": "S1 False, S2 True"
+      },
+      {
+        "id": 96040,
+        "text": "S1 True, S2  False"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "53542",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 14882
+  },
+  {
+    "id": 4500668,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 7,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Control parallelism can be handled by",
+    "answers": [
+      {
+        "id": 80771,
+        "text": "Hardware"
+      },
+      {
+        "id": 96348,
+        "text": "Software"
+      },
+      {
+        "id": 75251,
+        "text": "Both"
+      },
+      {
+        "id": 94505,
+        "text": "None"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "75251",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 80771
+  },
+  {
+    "id": 4500669,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 8,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Multitasking belongs to which of the categories of grain parallelism?",
+    "answers": [
+      {
+        "id": 90183,
+        "text": "medium"
+      },
+      {
+        "id": 94327,
+        "text": "fine"
+      },
+      {
+        "id": 57597,
+        "text": "coarse"
+      },
+      {
+        "id": 121,
+        "text": "all"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "57597",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 90183
+  },
+  {
+    "id": 4500670,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 9,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Advantages of demand-driven computers include",
+    "answers": [
+      {
+        "id": 65096,
+        "text": "A high degree of parallelism"
+      },
+      {
+        "id": 8003,
+        "text": "High throughput"
+      },
+      {
+        "id": 84836,
+        "text": "Full control"
+      },
+      {
+        "id": 6787,
+        "text": "Tougher data structure manipulation"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "65096",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 65096
+  },
+  {
+    "id": 4500671,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 10,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "For a ring architecture the bisection width is",
+    "answers": [
+      {
+        "id": 70001,
+        "text": "2"
+      },
+      {
+        "id": 58196,
+        "text": "1"
+      },
+      {
+        "id": 14470,
+        "text": "n"
+      },
+      {
+        "id": 87814,
+        "text": "k"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "14470",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 70001
+  },
+  {
+    "id": 4500672,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 11,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "If the word addressed by the CPU is not found  in the cache, the main memory is accessed to  read the word and termed as:",
+    "answers": [
+      {
+        "id": 47659,
+        "text": "Cache Hit"
+      },
+      {
+        "id": 29905,
+        "text": "Hit Ratio"
+      },
+      {
+        "id": 60006,
+        "text": "Cache Miss"
+      },
+      {
+        "id": 92004,
+        "text": "None of these"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "60006",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 60006
+  },
+  {
+    "id": 4500673,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 12,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "The main aim of virtual memory organization is:",
+    "answers": [
+      {
+        "id": 37613,
+        "text": "To provide effective memory access"
+      },
+      {
+        "id": 95910,
+        "text": "To provide better memory transfer"
+      },
+      {
+        "id": 20229,
+        "text": "To improve the execution of the program"
+      },
+      {
+        "id": 81447,
+        "text": "All of the mentioned"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "20229",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 81447
+  },
+  {
+    "id": 4500674,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 13,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"For a linear bus architecture, the bisection width is\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Arial\",\"16\":10}'>For a linear bus architecture, the bisection width is</span>",
+    "answers": [
+      {
+        "id": 85730,
+        "text": "2"
+      },
+      {
+        "id": 40130,
+        "text": "1"
+      },
+      {
+        "id": 56889,
+        "text": "n"
+      },
+      {
+        "id": 58759,
+        "text": "k"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "56889",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 40130
+  },
+  {
+    "id": 4500675,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 14,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"The degree of parallelism is defined as\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Arial\",\"16\":10}'>The degree of parallelism is defined as</span>",
+    "answers": [
+      {
+        "id": 18702,
+        "text": "An extent to which parallelism match between the software and Hardware."
+      },
+      {
+        "id": 38887,
+        "text": "The number of processors used to execute a program in the given time period."
+      },
+      {
+        "id": 48342,
+        "text": "Both A and B"
+      },
+      {
+        "id": 69059,
+        "text": "None of the above."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "38887",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 48342
+  },
+  {
+    "id": 4500676,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 15,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Asymptotic Speedup is given by\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Arial\",\"16\":10}'>Asymptotic Speedup is given by</span>",
+    "answers": [
+      {
+        "id": 16129,
+        "text": "[Response time on the infinite−processor system] / [Response time on single processor system]"
+      },
+      {
+        "id": 87190,
+        "text": "[Response time on single processor system] / [Response time on the infinite−processor system]"
+      },
+      {
+        "id": 99762,
+        "text": "[Time on single processor system] / [Time on the infinite−processor system]"
+      },
+      {
+        "id": 61370,
+        "text": "[Time on the infinite−processor system] / [Time on single processor system]"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "16129",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 87190
+  },
+  {
+    "id": 4500677,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 16,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Instruction parallelism in computers is not constrained by\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Arial\",\"16\":10}'>Instruction parallelism in computers is not constrained by</span>",
+    "answers": [
+      {
+        "id": 96548,
+        "text": "Program behavior,"
+      },
+      {
+        "id": 43704,
+        "text": "Compiler capabilities"
+      },
+      {
+        "id": 65921,
+        "text": "Program flow,"
+      },
+      {
+        "id": 40973,
+        "text": "Machine architecture"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "96548",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 40973
+  },
+  {
+    "id": 4500678,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 17,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Machine implementable parallel algorithms are\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Arial\",\"16\":10}'>Machine implementable parallel algorithms are:</span>",
+    "answers": [
+      {
+        "id": 66785,
+        "text": "Deterministic algorithm"
+      },
+      {
+        "id": 69966,
+        "text": "Can be fine-grain, medium grain, or coarse-grain"
+      },
+      {
+        "id": 25962,
+        "text": "Does not affect by the parallelism profile"
+      },
+      {
+        "id": 86013,
+        "text": "Require huge memory space and efficient data structures"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "69966",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 25962
+  },
+  {
+    "id": 4500679,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 18,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"State trueor false: The clocks per instruction in VLIW processor is lower than that of superscalar processor.\"}' data-sheets-userformat='{\"2\":14785,\"3\":{\"1\":0,\"3\":1},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Calibri\",\"16\":11}'>State true or false: The clocks per instruction in VLIW processor is lower than that of superscalar processor.</span>",
+    "answers": [
+      {
+        "id": 94907,
+        "text": "TRUE"
+      },
+      {
+        "id": 541,
+        "text": "FALSE"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "94907",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 94907
+  },
+  {
+    "id": 4500680,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 19,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"The symbolic processors are used in following domains, except\"}' data-sheets-userformat='{\"2\":12799,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"15\":\"Arial\",\"16\":10}'>The symbolic processors are used in following domains, except</span>",
+    "answers": [
+      {
+        "id": 79949,
+        "text": "Pattern recognition systems"
+      },
+      {
+        "id": 22506,
+        "text": "Knowledge represenation systems"
+      },
+      {
+        "id": 4409,
+        "text": "Weather forecating systems"
+      },
+      {
+        "id": 29204,
+        "text": "Computer vision systems."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "4409",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 4409
+  },
+  {
+    "id": 4500681,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 20,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Flow dependency is represented by which of the following?\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Flow dependency is represented by which of the following?</span>",
+    "answers": [
+      {
+        "id": 38265,
+        "text": "Directed arrow"
+      },
+      {
+        "id": 72817,
+        "text": "Directed arrow with hollow circle on it"
+      },
+      {
+        "id": 90202,
+        "text": "Directed arrow crossed with bar"
+      },
+      {
+        "id": 57906,
+        "text": "Dotted arrow"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "38265",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 38265
+  },
+  {
+    "id": 4500682,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 21,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Control dependency arises under which of the following?\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Control dependency arises under which of the following?</span>",
+    "answers": [
+      {
+        "id": 71849,
+        "text": "When the order of execution of statements cannot be determined before runtime"
+      },
+      {
+        "id": 68760,
+        "text": "When there is conflicts with resources"
+      },
+      {
+        "id": 43320,
+        "text": "When same file is referenced"
+      },
+      {
+        "id": 78829,
+        "text": "When there is no data"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "71849",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 71849
+  },
+  {
+    "id": 4500683,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 22,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Name the computer architecture that is aimed at reducing the time of execution of instructions:\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Name the computer architecture that is aimed at reducing the time of execution of instructions:</span>",
+    "answers": [
+      {
+        "id": 4068,
+        "text": "RISC"
+      },
+      {
+        "id": 13186,
+        "text": "CISC"
+      },
+      {
+        "id": 53040,
+        "text": "ISA"
+      },
+      {
+        "id": 19523,
+        "text": "ANNA"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "4068",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 4068
+  },
+  {
+    "id": 4500684,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 23,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Pipelining is a unique feature of which of this architecture:\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Pipelining is a unique feature of which of this architecture:</span>",
+    "answers": [
+      {
+        "id": 73964,
+        "text": "CISC"
+      },
+      {
+        "id": 81736,
+        "text": "RISC"
+      },
+      {
+        "id": 17486,
+        "text": "SCALAR"
+      },
+      {
+        "id": 7734,
+        "text": "ISA"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "81736",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 81736
+  },
+  {
+    "id": 4500685,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 24,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"In CISC architecture most of the complex instructions are stored in where?\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>In CISC architecture most of the complex instructions are stored in where?</span>",
+    "answers": [
+      {
+        "id": 42473,
+        "text": "Registers"
+      },
+      {
+        "id": 50826,
+        "text": "CMOS"
+      },
+      {
+        "id": 84378,
+        "text": "Diodes"
+      },
+      {
+        "id": 6462,
+        "text": "Transistors"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "6462",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 6462
+  },
+  {
+    "id": 4500686,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 25,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"What is the number of CPI required on RISC processors?\"}' data-sheets-userformat='{\"2\":14845,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>What is the number of CPI required on RISC processors?</span>",
+    "answers": [
+      {
+        "id": 17049,
+        "text": "0"
+      },
+      {
+        "id": 90268,
+        "text": "1"
+      },
+      {
+        "id": 25498,
+        "text": "2"
+      },
+      {
+        "id": 62023,
+        "text": "3"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "90268",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 90268
+  },
+  {
+    "id": 4500687,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 26,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Vacuum tubes and relay memories were used in which computers?\"}' data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Vacuum tubes and relay memories were used in which computers?</span>",
+    "answers": [
+      {
+        "id": 10394,
+        "text": "First generation"
+      },
+      {
+        "id": 49453,
+        "text": "Second generation"
+      },
+      {
+        "id": 74753,
+        "text": "Third generation"
+      },
+      {
+        "id": 29673,
+        "text": "Fourth generation"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "10394",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 10394
+  },
+  {
+    "id": 4500688,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 27,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which memory is present in the address space of a process and is used by processes for data communication?\"}' data-sheets-userformat='{\"2\":14633,\"3\":{\"1\":0,\"3\":1},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12}'>Which memory is present in the address space of a process and is used by processes for data communication?</span>",
+    "answers": [
+      {
+        "id": 18903,
+        "text": "Shared"
+      },
+      {
+        "id": 83146,
+        "text": "Public"
+      },
+      {
+        "id": 49921,
+        "text": "Private"
+      },
+      {
+        "id": 27113,
+        "text": "Distributed"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "18903",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 18903
+  },
+  {
+    "id": 4500689,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 28,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Name which PRAM model is used to handle the read or write conflicts.\"}' data-sheets-userformat='{\"2\":14633,\"3\":{\"1\":0,\"3\":1},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12}'>Name which PRAM model is used to handle the read or write conflicts.</span>",
+    "answers": [
+      {
+        "id": 8283,
+        "text": "EREW"
+      },
+      {
+        "id": 8056,
+        "text": "EWER"
+      },
+      {
+        "id": 94519,
+        "text": "CWER"
+      },
+      {
+        "id": 31061,
+        "text": "CWRE"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "31061",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 8283
+  },
+  {
+    "id": 4500690,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 29,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Symmetric multiprocessors architectures are also known as:\"}' data-sheets-userformat='{\"2\":14633,\"3\":{\"1\":0,\"3\":1},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12}'>Symmetric multiprocessors architectures are also known as:</span>",
+    "answers": [
+      {
+        "id": 25259,
+        "text": "Uniform memory access"
+      },
+      {
+        "id": 97137,
+        "text": "Non-uniform memory access"
+      },
+      {
+        "id": 61766,
+        "text": "Static memory access"
+      },
+      {
+        "id": 5665,
+        "text": "Variable memory access"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "25259",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 25259
+  },
+  {
+    "id": 4500691,
+    "quiz_id": 931824,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 30,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;According to Flynn's classification, which architecture is of only theoretical interest and no practical system has been developed based on it?&quot;}\" data-sheets-userformat='{\"2\":14653,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"11\":4,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>According to Flynn's classification, which architecture is of only theoretical interest and no practical system has been developed based on it?</span>",
+    "answers": [
+      {
+        "id": 46764,
+        "text": "SISD"
+      },
+      {
+        "id": 87969,
+        "text": "MISD"
+      },
+      {
+        "id": 80841,
+        "text": "SIMD"
+      },
+      {
+        "id": 3644,
+        "text": "MIMD"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "87969",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 87969
+  }
+];
 
 const compiled = [
   ...unit1,
@@ -8910,6 +10133,7 @@ const compiled = [
   ...unit15,
   ...ca1,
   ...ca2,
+  ...ca3,
 ];
 
 // const container = document.querySelector('.container');

@@ -8768,7 +8768,1238 @@ const ca2 = [
   }
 ];
 
-const ca3 = [];
+const ca3 = [
+  {
+    "id": 4501872,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 1,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Identify the valid statement for AVL tree.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>Identify the valid statement for AVL tree.</span>",
+    "answers": [
+      {
+        "id": 57042,
+        "text": "A tree that is balanced and is height-balanced"
+      },
+      {
+        "id": 53083,
+        "text": "A tree with three children"
+      },
+      {
+        "id": 92349,
+        "text": "A tree with at most 3 children"
+      },
+      {
+        "id": 94053,
+        "text": "A tree that is unbalanced and is height-balanced"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "57042",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 57042
+  },
+  {
+    "id": 4501873,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 2,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"In the case of the AVL tree, what matters?\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>In the case of the AVL trees, which statement is invalid?</span>",
+    "answers": [
+      {
+        "id": 91410,
+        "text": "Worst-case time complexity is O(n)"
+      },
+      {
+        "id": 11779,
+        "text": "The left node and right node differ in height by at most 1 unit"
+      },
+      {
+        "id": 93161,
+        "text": "Worst-case time complexity is O(logn)"
+      },
+      {
+        "id": 66243,
+        "text": "It is a binary search tree"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "91410",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 91410
+  },
+  {
+    "id": 4501874,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 3,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"In AVL trees, what conditions must the Balancing factor meet?\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>In AVL trees, what conditions must the Balancing factor meet?</span>",
+    "answers": [
+      {
+        "id": 94275,
+        "text": "-2,-1,0"
+      },
+      {
+        "id": 38132,
+        "text": "-1,0,2"
+      },
+      {
+        "id": 1691,
+        "text": "-1,0,0"
+      },
+      {
+        "id": 31703,
+        "text": "-1,0,1"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "31703",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 31703
+  },
+  {
+    "id": 4501875,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 4,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p><span data-sheets-value='{\"1\":2,\"2\":\"Identify the following is not the self-balancing binary search tree.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>Identify which of the following is/are self-balancing tree.</span></p>\n<p><span data-sheets-value='{\"1\":2,\"2\":\"Identify the following is not the self-balancing binary search tree.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>A) AVL Tree</span></p>\n<p><span data-sheets-value='{\"1\":2,\"2\":\"Identify the following is not the self-balancing binary search tree.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>B) 2-3-4 Tree</span></p>\n<p><span data-sheets-value='{\"1\":2,\"2\":\"Identify the following is not the self-balancing binary search tree.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>C) Red-Black Tree </span></p>\n<p><span data-sheets-value='{\"1\":2,\"2\":\"Identify the following is not the self-balancing binary search tree.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>D) Splay Tree</span></p>\n",
+    "answers": [
+      {
+        "id": 66758,
+        "text": "A, B , C, D"
+      },
+      {
+        "id": 25797,
+        "text": "A and C"
+      },
+      {
+        "id": 69903,
+        "text": "A and B"
+      },
+      {
+        "id": 56065,
+        "text": "A, B, C"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "66758",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 66758
+  },
+  {
+    "id": 4501876,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 5,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Identify the time complexity to extract min/max elements in heap.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>Which among the following is true for min heap? </span>",
+    "answers": [
+      {
+        "id": 40544,
+        "text": "A data structure that follows the Last In, First Out (LIFO) principle."
+      },
+      {
+        "id": 73240,
+        "text": "A data structure that stores elements in sorted order."
+      },
+      {
+        "id": 77939,
+        "text": "A binary tree where each parent node is larger than its child nodes."
+      },
+      {
+        "id": 508,
+        "text": "A binary tree where each parent node is smaller than its child nodes."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "508",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 508
+  },
+  {
+    "id": 4501877,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 6,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Identify the two types of the heap.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>Identify the two types of the heap.</span>",
+    "answers": [
+      {
+        "id": 71832,
+        "text": "Tree and Binary Tree"
+      },
+      {
+        "id": 17242,
+        "text": "Min and Max"
+      },
+      {
+        "id": 15953,
+        "text": "Join and Disjoint"
+      },
+      {
+        "id": 66845,
+        "text": "Directed and Undirected"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "17242",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 17242
+  },
+  {
+    "id": 4501878,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 7,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"What is the minimum number of elements in a heap of height h?\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>What is the minimum number of elements in a heap of height h?</span>",
+    "answers": [
+      {
+        "id": 25603,
+        "text": "2h+1"
+      },
+      {
+        "id": 84659,
+        "text": "2^h"
+      },
+      {
+        "id": 67754,
+        "text": "2h-1"
+      },
+      {
+        "id": 36151,
+        "text": "2h"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "84659",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 84659
+  },
+  {
+    "id": 4501879,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 8,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which node in a Min Heap always has the element with the smallest key?\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>Which node in a Min Heap always has the element with the smallest key?</span>",
+    "answers": [
+      {
+        "id": 90214,
+        "text": "Root Node"
+      },
+      {
+        "id": 6976,
+        "text": "First Node of Left Subtree"
+      },
+      {
+        "id": 74356,
+        "text": "First Node of Right Subtree"
+      },
+      {
+        "id": 7609,
+        "text": "Leaf Node"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "90214",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 90214
+  },
+  {
+    "id": 4501880,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 9,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Determine the maximum number of elements in a heap of height h?\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>Determine the maximum number of elements in a heap of height h?</span>",
+    "answers": [
+      {
+        "id": 57595,
+        "text": "2h - 1"
+      },
+      {
+        "id": 17353,
+        "text": "2^(h+1) - 1"
+      },
+      {
+        "id": 16269,
+        "text": "2h + 1"
+      },
+      {
+        "id": 91698,
+        "text": "2^h"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "17353",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 17353
+  },
+  {
+    "id": 4501881,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 10,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"What is the maximum number of child nodes that a binary tree node can have? \"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>What is the maximum number of child nodes that a binary tree node can have? </span>",
+    "answers": [
+      {
+        "id": 99709,
+        "text": "2"
+      },
+      {
+        "id": 92605,
+        "text": "0"
+      },
+      {
+        "id": 51391,
+        "text": "4"
+      },
+      {
+        "id": 29291,
+        "text": "6"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "99709",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 99709
+  },
+  {
+    "id": 4501882,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 11,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Recognize the right property of a binary tree.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>Recognize the right property of a binary tree.</span>",
+    "answers": [
+      {
+        "id": 20979,
+        "text": "The right subtree can be empty"
+      },
+      {
+        "id": 26047,
+        "text": "The second subtree is called the right subtree"
+      },
+      {
+        "id": 4397,
+        "text": "The first subset is called the left subtree"
+      },
+      {
+        "id": 39019,
+        "text": "The root cannot contain NULL"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "4397",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 20979
+  },
+  {
+    "id": 4501883,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 12,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"At level 6, what is the maximum number of nodes that a binary tree can have?\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>At level 6, what is the maximum number of nodes that a binary tree can have?</span>",
+    "answers": [
+      {
+        "id": 30860,
+        "text": "36"
+      },
+      {
+        "id": 15972,
+        "text": "8"
+      },
+      {
+        "id": 27194,
+        "text": "64"
+      },
+      {
+        "id": 2283,
+        "text": "16"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "27194",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 27194
+  },
+  {
+    "id": 4501884,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 13,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"What makes inorder traversal of a binary search tree so special?\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>What makes inorder traversal of a binary search tree so special?</span>",
+    "answers": [
+      {
+        "id": 18094,
+        "text": "It traverses in a random fashion"
+      },
+      {
+        "id": 83244,
+        "text": "It traverses in a non-increasing order"
+      },
+      {
+        "id": 7119,
+        "text": "It traverses based on the priority of the node"
+      },
+      {
+        "id": 4652,
+        "text": "It traverses in an increasing order"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "4652",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 4652
+  },
+  {
+    "id": 4501885,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 14,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"The height of a BST is given as h. Consider the height of the tree as the number of edges in the longest path from the root to the leaf. The maximum number of nodes possible in the tree is:\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>The height of a BST is given as h. Consider the height of the tree as the number of edges in the longest path from the root to the leaf. The maximum number of nodes possible in the tree is:</span>",
+    "answers": [
+      {
+        "id": 56748,
+        "text": "2^h - 1"
+      },
+      {
+        "id": 92397,
+        "text": "2h - 1"
+      },
+      {
+        "id": 99901,
+        "text": "2^(h+1) -1"
+      },
+      {
+        "id": 35579,
+        "text": "2^h"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "99901",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 56748
+  },
+  {
+    "id": 4501886,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 15,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Identify the application of red-black trees.\"}' data-sheets-userformat='{\"2\":33569279,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":3,\"3\":2},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"9\":0,\"10\":1,\"11\":4,\"14\":{\"1\":2,\"2\":0},\"15\":\"Quattrocento Sans\",\"16\":12,\"28\":1}'>Identify the application of red-black trees.</span>",
+    "answers": [
+      {
+        "id": 20585,
+        "text": "Used to store strings efficiently"
+      },
+      {
+        "id": 58408,
+        "text": "Can be used in process schedulers, maps, sets"
+      },
+      {
+        "id": 45178,
+        "text": "Used to store integers efficiently"
+      },
+      {
+        "id": 35447,
+        "text": "For efficient sorting"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "58408",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 58408
+  },
+  {
+    "id": 4501887,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 16,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which of the following is an example of a self-balancing tree?",
+    "answers": [
+      {
+        "id": 87501,
+        "text": "Segment tree"
+      },
+      {
+        "id": 95756,
+        "text": "AVL tree"
+      },
+      {
+        "id": 63532,
+        "text": "Binary search tree"
+      },
+      {
+        "id": 59593,
+        "text": "Trie tree"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "95756",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 95756
+  },
+  {
+    "id": 4501888,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 17,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the primary advantage of self-balancing trees?",
+    "answers": [
+      {
+        "id": 15824,
+        "text": "Ease of implementation"
+      },
+      {
+        "id": 86938,
+        "text": "Minimal height maintenance"
+      },
+      {
+        "id": 22466,
+        "text": "Efficient operations with O(log n) complexity"
+      },
+      {
+        "id": 81729,
+        "text": "Suitable for sorting intervals or segments"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "22466",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 22466
+  },
+  {
+    "id": 4501889,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 18,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which operation in segment trees is used to update an element of the array?",
+    "answers": [
+      {
+        "id": 68029,
+        "text": "Insert"
+      },
+      {
+        "id": 18473,
+        "text": "Delete"
+      },
+      {
+        "id": 3239,
+        "text": "Query"
+      },
+      {
+        "id": 80153,
+        "text": "Update"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "80153",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 80153
+  },
+  {
+    "id": 4501890,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 19,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the time complexity for search, insertion, and deletion operations in a Trie data structure?",
+    "answers": [
+      {
+        "id": 85862,
+        "text": "O(1)"
+      },
+      {
+        "id": 31866,
+        "text": "O(log n)"
+      },
+      {
+        "id": 69861,
+        "text": "O(L)"
+      },
+      {
+        "id": 99185,
+        "text": "O(n)"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "99185",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 69861
+  },
+  {
+    "id": 4501891,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 20,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which of the following is an advantage of using a Trie data structure?",
+    "answers": [
+      {
+        "id": 2404,
+        "text": "Fast lookup for data"
+      },
+      {
+        "id": 33798,
+        "text": "Low space complexity"
+      },
+      {
+        "id": 54338,
+        "text": "Quick hash table replacement"
+      },
+      {
+        "id": 46070,
+        "text": "Efficient alphabetical sorting of words"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "2404",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 2404
+  },
+  {
+    "id": 4501892,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 21,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is a disadvantage of using a Trie data structure?",
+    "answers": [
+      {
+        "id": 59227,
+        "text": "Poor time complexity for search operations"
+      },
+      {
+        "id": 12273,
+        "text": "High memory usage and space complexity"
+      },
+      {
+        "id": 27484,
+        "text": "Limited usage in hashing algorithms"
+      },
+      {
+        "id": 84719,
+        "text": "Inefficient insertion and deletion algorithms"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "12273",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 12273
+  },
+  {
+    "id": 4501893,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 22,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the worst-case running time for operations in a binary search tree?",
+    "answers": [
+      {
+        "id": 32925,
+        "text": "O(N)"
+      },
+      {
+        "id": 42548,
+        "text": "O(1)"
+      },
+      {
+        "id": 32269,
+        "text": "O(N^2)"
+      },
+      {
+        "id": 8369,
+        "text": "O(log N)"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "8369",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 32925
+  },
+  {
+    "id": 4501894,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 23,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What problem occurs when elements are inserted in ascending order into a binary search tree?",
+    "answers": [
+      {
+        "id": 58339,
+        "text": "Inefficient insertion algorithm"
+      },
+      {
+        "id": 54424,
+        "text": "Decreased search efficiency"
+      },
+      {
+        "id": 9470,
+        "text": "Deadlock of operations"
+      },
+      {
+        "id": 42395,
+        "text": "Lack of balance"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "42395",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 42395
+  },
+  {
+    "id": 4501895,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 24,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What were B-trees specifically designed for?",
+    "answers": [
+      {
+        "id": 34748,
+        "text": "Searching data stored on block-oriented devices"
+      },
+      {
+        "id": 31486,
+        "text": "Searching data stored in main memory"
+      },
+      {
+        "id": 3506,
+        "text": "Sorting data in ascending order"
+      },
+      {
+        "id": 48978,
+        "text": "Searching data stored in binary trees"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "34748",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 34748
+  },
+  {
+    "id": 4501896,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 25,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "B+ trees are a variant of which data structure?",
+    "answers": [
+      {
+        "id": 88440,
+        "text": "B trees"
+      },
+      {
+        "id": 11675,
+        "text": "Red-black trees"
+      },
+      {
+        "id": 443,
+        "text": "Binary search trees"
+      },
+      {
+        "id": 66851,
+        "text": "AVL trees"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "88440",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 88440
+  },
+  {
+    "id": 4501897,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 26,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the distinguishing feature of leaf nodes in B+ trees?",
+    "answers": [
+      {
+        "id": 53884,
+        "text": "They have a variable number of keys."
+      },
+      {
+        "id": 16505,
+        "text": "They are the nodes that store actual data records."
+      },
+      {
+        "id": 48718,
+        "text": "They contain both keys and pointers to data."
+      },
+      {
+        "id": 81904,
+        "text": "They have a fixed maximum number of children."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "16505",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 16505
+  },
+  {
+    "id": 4501898,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 27,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the purpose of the \"Heapify\" procedure in the Heap Sort algorithm?",
+    "answers": [
+      {
+        "id": 20766,
+        "text": "Building a heap on the remaining elements after removing node n"
+      },
+      {
+        "id": 16096,
+        "text": "Discarding the maximum element from the heap"
+      },
+      {
+        "id": 75491,
+        "text": "Exchanging the root element with the last element"
+      },
+      {
+        "id": 43774,
+        "text": "Sorting the input array A in descending order"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "20766",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 20766
+  },
+  {
+    "id": 4501899,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 28,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the minimum depth of a full binary tree?",
+    "answers": [
+      {
+        "id": 15590,
+        "text": "1"
+      },
+      {
+        "id": 73623,
+        "text": "It can vary depending on the number of nodes"
+      },
+      {
+        "id": 12914,
+        "text": "0"
+      },
+      {
+        "id": 86273,
+        "text": "2"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "73623",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 12914
+  },
+  {
+    "id": 4501900,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 29,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "A binary tree with n nodes and depth k is complete if:",
+    "answers": [
+      {
+        "id": 99063,
+        "text": "Its nodes correspond to the nodes numbered from 1 to n in the full binary tree of depth k"
+      },
+      {
+        "id": 57044,
+        "text": "Its depth is equal to the number of nodes"
+      },
+      {
+        "id": 18139,
+        "text": "All nodes have exactly two children"
+      },
+      {
+        "id": 11776,
+        "text": "It has exactly (2^k) - 1 nodes"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "99063",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 99063
+  },
+  {
+    "id": 4501901,
+    "quiz_id": 932066,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 30,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the maximum number of nodes in a full binary tree of depth k?",
+    "answers": [
+      {
+        "id": 87583,
+        "text": "(2^k)"
+      },
+      {
+        "id": 49799,
+        "text": "k"
+      },
+      {
+        "id": 16240,
+        "text": "(k^2) - 1"
+      },
+      {
+        "id": 64922,
+        "text": "(2^k) - 1"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "64922",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 64922
+  }
+];
 
 
 const compiled = [
@@ -8789,6 +10020,7 @@ const compiled = [
   ...unit15,
   ...ca1,
   ...ca2,
+  ...ca3,
 ];
 
 // const container = document.querySelector('.container');

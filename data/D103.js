@@ -8614,7 +8614,1238 @@ const ca2 = [
   }
 ];
 
-const ca3 = [];
+const ca3 = [
+  {
+    "id": 4502588,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 1,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Station A can access both Station B and C. There is a Station D that can access only station C. Station B can access only Station A. Now Station B sends data to station A, while station C sends data to station A, Identify the cause of the problem which can occur at the described instant?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Station A can access both Station B and C. There is a Station D that can access only station C. Station B can access only Station A. Now Station B sends data to station A, while station C sends data to station A, Identify the cause of the problem which can occur at the described instant?</span>",
+    "answers": [
+      {
+        "id": 16918,
+        "text": "Exposed Station Problem"
+      },
+      {
+        "id": 59809,
+        "text": "Propagation"
+      },
+      {
+        "id": 87714,
+        "text": "Collision"
+      },
+      {
+        "id": 32067,
+        "text": "Hidden Station"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "32067",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 32067
+  },
+  {
+    "id": 4502589,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 2,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"The concept by which when a mobile phone leaves its base station coverage for another base station, and it should still be reachable, it is termed as?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>The concept by which when a mobile phone leaves its base station coverage for another base station, and it should still be reachable, it is termed as?</span>",
+    "answers": [
+      {
+        "id": 72747,
+        "text": "Hard Handoff"
+      },
+      {
+        "id": 90233,
+        "text": "Soft Handoff"
+      },
+      {
+        "id": 48972,
+        "text": "Roaming"
+      },
+      {
+        "id": 36444,
+        "text": "Tradeoff"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "48972",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 48972
+  },
+  {
+    "id": 4502590,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 3,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which of the following configurations require fibre optics?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Which of the following configurations require fibre optics?</span>",
+    "answers": [
+      {
+        "id": 10558,
+        "text": "10 base 2"
+      },
+      {
+        "id": 96782,
+        "text": "10 base T"
+      },
+      {
+        "id": 7237,
+        "text": "10 base 5"
+      },
+      {
+        "id": 93001,
+        "text": "10 base F"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "93001",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 93001
+  },
+  {
+    "id": 4502591,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 4,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which part of the address gives the information about the network the device is connected to?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Which part of the address gives the information about the network the device is connected to?</span>",
+    "answers": [
+      {
+        "id": 75349,
+        "text": "Network Id"
+      },
+      {
+        "id": 84587,
+        "text": "Wire Id"
+      },
+      {
+        "id": 79294,
+        "text": "Multicast Id"
+      },
+      {
+        "id": 31772,
+        "text": "Host Id"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "75349",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 75349
+  },
+  {
+    "id": 4502592,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 5,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Consider an organisation that is connected to the internet from the IP address “192.165.74.0”, the organization has its internal complaint system hosted on “192.165.74.2”, what type of IPv4 networking concept has been employed?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Consider an organisation that is connected to the internet from the IP address “192.165.74.0”, the organization has its internal complaint system hosted on “192.165.74.2”, what type of IPv4 networking concept has been employed?</span>",
+    "answers": [
+      {
+        "id": 83048,
+        "text": "masking"
+      },
+      {
+        "id": 2826,
+        "text": "subnetting"
+      },
+      {
+        "id": 55108,
+        "text": "address depletion"
+      },
+      {
+        "id": 72299,
+        "text": "supernetting"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "2826",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 2826
+  },
+  {
+    "id": 4502593,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 6,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"An organization X is combining several class C IP addresses to connect to the internet. What is this concept known as?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>An organization X is combining several class C IP addresses to connect to the internet. What is this concept known as?</span>",
+    "answers": [
+      {
+        "id": 53361,
+        "text": "supernetting"
+      },
+      {
+        "id": 42526,
+        "text": "subnetting"
+      },
+      {
+        "id": 69270,
+        "text": "masking"
+      },
+      {
+        "id": 58145,
+        "text": "address depletion"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "53361",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 53361
+  },
+  {
+    "id": 4502594,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 7,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "\n<p>Identify the type of the following destination MAC address 4A:30:10:21:10:1A</p>\n",
+    "answers": [
+      {
+        "id": 73532,
+        "text": "Broadcast"
+      },
+      {
+        "id": 36651,
+        "text": "Unicast"
+      },
+      {
+        "id": 8263,
+        "text": "Anycast"
+      },
+      {
+        "id": 99371,
+        "text": "Multicast"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "36651",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 36651
+  },
+  {
+    "id": 4502595,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 8,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Where are the IP address mappings stored from time to time to ensure quick retrieval and transfer of address?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Where are the IP address mappings stored from time to time to ensure quick retrieval and transfer of address?</span>",
+    "answers": [
+      {
+        "id": 74710,
+        "text": "Cache Memory"
+      },
+      {
+        "id": 30372,
+        "text": "Compute Table"
+      },
+      {
+        "id": 113,
+        "text": "Process Unit"
+      },
+      {
+        "id": 25278,
+        "text": "Routing Table"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "25278",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 74710
+  },
+  {
+    "id": 4502596,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 9,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which addressing is used by a device to transfer information from an IPv6 address to an IPv4 address?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Which addressing is used by a device to transfer information from an IPv6 address to an IPv4 address?</span>",
+    "answers": [
+      {
+        "id": 25490,
+        "text": "Leapback"
+      },
+      {
+        "id": 590,
+        "text": "Compatible"
+      },
+      {
+        "id": 51891,
+        "text": "Unspecified"
+      },
+      {
+        "id": 70505,
+        "text": "Mapped"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "70505",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 70505
+  },
+  {
+    "id": 4502597,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 10,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which of the following is not a transport layer in an IPv4 system?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Which of the following is not a transport layer protocol in an IPv4 system?</span>",
+    "answers": [
+      {
+        "id": 15613,
+        "text": "ARP"
+      },
+      {
+        "id": 1665,
+        "text": "TCP or UDP"
+      },
+      {
+        "id": 34118,
+        "text": "UDP"
+      },
+      {
+        "id": 31733,
+        "text": "TCP"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "15613",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 15613
+  },
+  {
+    "id": 4502598,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 11,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which of the following requires a path to be established before the packet is sent?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Which of the following requires a path to be established before the packet is sent?</span>",
+    "answers": [
+      {
+        "id": 401,
+        "text": "Connectionless"
+      },
+      {
+        "id": 68554,
+        "text": "Connection virtual"
+      },
+      {
+        "id": 34828,
+        "text": "Connection oriented"
+      },
+      {
+        "id": 52105,
+        "text": "Connection top"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "34828",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 34828
+  },
+  {
+    "id": 4502599,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 12,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"A company wants to come up with a quick chat application with no lags in receival and sending a message that is instant communication channels, usage of which protocol would be optimum ? \"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>A company wants to come up with a quick chat application with no lags in receival and sending a message that is instant communication channels, usage of which protocol would be optimum ? </span>",
+    "answers": [
+      {
+        "id": 4619,
+        "text": "PCT"
+      },
+      {
+        "id": 67619,
+        "text": "UDP"
+      },
+      {
+        "id": 68292,
+        "text": "TCP"
+      },
+      {
+        "id": 48495,
+        "text": "PO3"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "67619",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 67619
+  },
+  {
+    "id": 4502600,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 13,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which of the following UDP ports is responsible for the domain name?\"}' data-sheets-userformat='{\"2\":14527,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":2,\"2\":16777215},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Which of the following UDP ports is responsible for the domain name?</span>",
+    "answers": [
+      {
+        "id": 59921,
+        "text": "53"
+      },
+      {
+        "id": 66316,
+        "text": "69"
+      },
+      {
+        "id": 94000,
+        "text": "111"
+      },
+      {
+        "id": 73418,
+        "text": "13"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "59921",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 59921
+  },
+  {
+    "id": 4502601,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 14,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Mr. X is trying to design a network protocol system, such that even if the VPN is blocked in a country it should still work. Which protocol system should be used?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Mr. X is trying to design a network protocol system, such that even if the VPN is blocked in a country it should still work. Which protocol system should be used?</span>",
+    "answers": [
+      {
+        "id": 77850,
+        "text": "JPEG"
+      },
+      {
+        "id": 61696,
+        "text": "HDLC"
+      },
+      {
+        "id": 97384,
+        "text": "UDP"
+      },
+      {
+        "id": 43431,
+        "text": "TCP"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "43431",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 97384
+  },
+  {
+    "id": 4502602,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 15,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"In establishing a connection as part of a 3 way handshake what is sent along with sequence code. Choose the correct answer\"}' data-sheets-userformat='{\"2\":14527,\"3\":{\"1\":0,\"3\":1},\"4\":{\"1\":2,\"2\":16777215},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>In establishing a connection as part of a 3 way handshake what is sent along with sequence code. Choose the correct answer</span>",
+    "answers": [
+      {
+        "id": 5290,
+        "text": "Random Flag"
+      },
+      {
+        "id": 94233,
+        "text": "Sequence code"
+      },
+      {
+        "id": 95235,
+        "text": "Sync Flag"
+      },
+      {
+        "id": 93768,
+        "text": "Delimiter"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "95235",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 95235
+  },
+  {
+    "id": 4502603,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 16,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which device is primarily responsible for forwarding data packets in a computer network?",
+    "answers": [
+      {
+        "id": 28683,
+        "text": "Router"
+      },
+      {
+        "id": 89843,
+        "text": "Modem"
+      },
+      {
+        "id": 50242,
+        "text": "Bridge"
+      },
+      {
+        "id": 87151,
+        "text": "Hub"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "28683",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 28683
+  },
+  {
+    "id": 4502604,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 17,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which type of routing table requires manual configuration by a network administrator?",
+    "answers": [
+      {
+        "id": 51760,
+        "text": "Auto-routing table"
+      },
+      {
+        "id": 99252,
+        "text": "Static routing table"
+      },
+      {
+        "id": 50245,
+        "text": "Dynamic routing table"
+      },
+      {
+        "id": 98365,
+        "text": "Hybrid routing table"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "99252",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 99252
+  },
+  {
+    "id": 4502605,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 18,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the primary advantage of using dynamic routing tables over static routing tables?",
+    "answers": [
+      {
+        "id": 1868,
+        "text": "Dynamic routing tables automatically adjust to network changes."
+      },
+      {
+        "id": 54287,
+        "text": "Dynamic routing tables provide faster data transmission speeds."
+      },
+      {
+        "id": 55544,
+        "text": "Dynamic routing tables require less memory."
+      },
+      {
+        "id": 68484,
+        "text": "Dynamic routing tables offer better network security."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "1868",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 1868
+  },
+  {
+    "id": 4502606,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 19,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which function is responsible for determining the optimal path for data packets to reach their destination in a computer network?",
+    "answers": [
+      {
+        "id": 35472,
+        "text": "Routing"
+      },
+      {
+        "id": 12596,
+        "text": "Switching"
+      },
+      {
+        "id": 68337,
+        "text": "Forwarding"
+      },
+      {
+        "id": 15429,
+        "text": "Delivery"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "35472",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 35472
+  },
+  {
+    "id": 4502607,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 20,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the primary role of a router in a computer network?",
+    "answers": [
+      {
+        "id": 99803,
+        "text": "Providing wireless connectivity to network devices."
+      },
+      {
+        "id": 43075,
+        "text": "Ensuring data packets are delivered to the correct destination."
+      },
+      {
+        "id": 34387,
+        "text": "Switching data packets between different network segments."
+      },
+      {
+        "id": 95872,
+        "text": "Forwarding data packets between devices within the same network."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "43075",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 43075
+  },
+  {
+    "id": 4502608,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 21,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which type of routing protocol is primarily used for routing within a single autonomous system (AS)?",
+    "answers": [
+      {
+        "id": 70569,
+        "text": "Intradomain routing"
+      },
+      {
+        "id": 34855,
+        "text": "Distance vector routing"
+      },
+      {
+        "id": 76690,
+        "text": "Interdomain routing"
+      },
+      {
+        "id": 85188,
+        "text": "Link state routing"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": false,
+    "points_possible": 1,
+    "points": 0,
+    "answer": "85188",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 70569
+  },
+  {
+    "id": 4502609,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 22,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the primary purpose of interdomain routing protocols?",
+    "answers": [
+      {
+        "id": 92687,
+        "text": "Exchange routing information within a single AS."
+      },
+      {
+        "id": 44186,
+        "text": "Provide efficient routing within a LAN environment."
+      },
+      {
+        "id": 54479,
+        "text": "Enable communication between different autonomous systems."
+      },
+      {
+        "id": 25663,
+        "text": "Optimize routing within a specific network segment."
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "54479",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 54479
+  },
+  {
+    "id": 4502610,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 23,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which address is represented by Ethernet addressing, if all the bits are 1s?",
+    "answers": [
+      {
+        "id": 71814,
+        "text": "Anycast"
+      },
+      {
+        "id": 97669,
+        "text": "Unicast"
+      },
+      {
+        "id": 81926,
+        "text": "Broadcast"
+      },
+      {
+        "id": 68914,
+        "text": "Multicast"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "81926",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 81926
+  },
+  {
+    "id": 4502611,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 24,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What does an Ethernet frame consist of?",
+    "answers": [
+      {
+        "id": 10221,
+        "text": "DNS Log"
+      },
+      {
+        "id": 58868,
+        "text": "Port Address"
+      },
+      {
+        "id": 63738,
+        "text": "MAC Address"
+      },
+      {
+        "id": 65721,
+        "text": "IP Address"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "63738",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 63738
+  },
+  {
+    "id": 4502612,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 25,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"In which layer of the TCP/IP model can we generally find the bridge/router?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>In which layer of the TCP/IP model can we generally find the bridge/router?</span>",
+    "answers": [
+      {
+        "id": 10420,
+        "text": "Data Link"
+      },
+      {
+        "id": 38677,
+        "text": "Application"
+      },
+      {
+        "id": 11742,
+        "text": "Network"
+      },
+      {
+        "id": 49426,
+        "text": "Physical"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "11742",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 11742
+  },
+  {
+    "id": 4502613,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 26,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which of the following flags is essential with respect to security in the frame of MAC Sublayer following the IEEE 802.11 standard?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Which of the following flags is essential with respect to security in the frame of MAC Sublayer following the IEEE 802.11 standard?</span>",
+    "answers": [
+      {
+        "id": 69695,
+        "text": "More Flag"
+      },
+      {
+        "id": 51904,
+        "text": "Protocol Version"
+      },
+      {
+        "id": 41418,
+        "text": "Subtype"
+      },
+      {
+        "id": 94487,
+        "text": "WEP"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "94487",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 94487
+  },
+  {
+    "id": 4502614,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 27,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "<span data-sheets-value='{\"1\":2,\"2\":\"Which of the following frames marks the end of the preamble bits in MAC Sublayer Frame Format?\"}' data-sheets-userformat='{\"2\":14525,\"3\":{\"1\":0,\"3\":1},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":{\"1\":2,\"2\":0}},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":2,\"14\":{\"1\":3,\"3\":1},\"15\":\"Quattrocento Sans\",\"16\":12}'>Which of the following frames marks the end of the preamble bits in MAC Sublayer Frame Format?</span>",
+    "answers": [
+      {
+        "id": 359,
+        "text": "Padding"
+      },
+      {
+        "id": 81962,
+        "text": "Length"
+      },
+      {
+        "id": 59534,
+        "text": "Start Frame Delimiter"
+      },
+      {
+        "id": 53125,
+        "text": "Preamble"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "59534",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 59534
+  },
+  {
+    "id": 4502615,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 28,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which type of network can be created using a single router and Ethernet cables?",
+    "answers": [
+      {
+        "id": 98584,
+        "text": "Personal Area Network (PAN)"
+      },
+      {
+        "id": 64090,
+        "text": "Local Area Network (LAN)"
+      },
+      {
+        "id": 37165,
+        "text": "Metropolitan Area Network (MAN)"
+      },
+      {
+        "id": 54392,
+        "text": "Wide Area Network (WAN)"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "64090",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 64090
+  },
+  {
+    "id": 4502616,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 29,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "Which component of the IEEE 802.11 architecture connects access points in an Extended Service Set (ESS)?",
+    "answers": [
+      {
+        "id": 91325,
+        "text": "Stations (STA)"
+      },
+      {
+        "id": 53811,
+        "text": "Wireless Access Point (WAP)"
+      },
+      {
+        "id": 28385,
+        "text": "Distribution System (DS)"
+      },
+      {
+        "id": 94490,
+        "text": "Basic Service Set (BSS)"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "28385",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 28385
+  },
+  {
+    "id": 4502617,
+    "quiz_id": 932280,
+    "quiz_group_id": null,
+    "assessment_question_id": null,
+    "position": 30,
+    "question_name": "Question",
+    "question_type": "multiple_choice_question",
+    "question_text": "What is the purpose of a Wireless Access Point (WAP) in the IEEE 802.11 architecture?",
+    "answers": [
+      {
+        "id": 49420,
+        "text": "Forming the base station for wireless routers"
+      },
+      {
+        "id": 23984,
+        "text": "Establishing communication at the physical layer level"
+      },
+      {
+        "id": 85113,
+        "text": "Connecting stations in a Basic Service Set (BSS)"
+      },
+      {
+        "id": 50590,
+        "text": "Enabling peer-to-peer communication in an Independent BSS"
+      }
+    ],
+    "variables": null,
+    "formulas": null,
+    "answer_tolerance": null,
+    "formula_decimal_places": null,
+    "matches": null,
+    "flagged": false,
+    "correct": true,
+    "points_possible": 1,
+    "points": 1,
+    "answer": "49420",
+    "correct_comments": "",
+    "incorrect_comments": "",
+    "correct_answer": 49420
+  }
+];
 
 
 const compiled = [
@@ -8635,42 +9866,43 @@ const compiled = [
   ...unit15,
   ...ca1,
   ...ca2,
+  ...ca3,
 ];
 
 
-const container = document.querySelector('.container');
+// const container = document.querySelector('.container');
 
-for (let i = 0; i < compiled.length; i++) {
-  const qna = compiled[i];
-  // console.log(qna);
+// for (let i = 0; i < compiled.length; i++) {
+//   const qna = compiled[i];
+//   // console.log(qna);
 
-  if (qna.question_type === "essay_question") {
-    continue;
-  }
+//   if (qna.question_type === "essay_question") {
+//     continue;
+//   }
 
-  const mcqBox = document.createElement('div');
-  const questionBox = document.createElement('div');
-  const answerBox = document.createElement('div');
-  mcqBox.className = 'mcq-box';
-  questionBox.className = 'question-box';
-  answerBox.className = 'answer-box';
+//   const mcqBox = document.createElement('div');
+//   const questionBox = document.createElement('div');
+//   const answerBox = document.createElement('div');
+//   mcqBox.className = 'mcq-box';
+//   questionBox.className = 'question-box';
+//   answerBox.className = 'answer-box';
 
-  const qc = document.createElement('div');
-  const opts = document.createElement('div');
-  qc.className = 'qc';
-  opts.className = 'opts';
+//   const qc = document.createElement('div');
+//   const opts = document.createElement('div');
+//   qc.className = 'qc';
+//   opts.className = 'opts';
 
-  qc.innerHTML = `<i>Q${i + 1}: </i>` + qna.question_text;
-  opts.innerHTML = qna.answers.map(q => q.text).join(',');
-  questionBox.appendChild(qc);
-  questionBox.appendChild(opts);
+//   qc.innerHTML = `<i>Q${i + 1}: </i>` + qna.question_text;
+//   opts.innerHTML = qna.answers.map(q => q.text).join(',');
+//   questionBox.appendChild(qc);
+//   questionBox.appendChild(opts);
 
-  const [correctAnswer] = qna.answers.filter((q) => q.id === (qna.correct_answer[0] || qna.correct_answer));
-  // console.log(correctAnswer);
-  answerBox.innerHTML = correctAnswer.text || correctAnswer.html;
+//   const [correctAnswer] = qna.answers.filter((q) => q.id === (qna.correct_answer[0] || qna.correct_answer));
+//   // console.log(correctAnswer);
+//   answerBox.innerHTML = correctAnswer.text || correctAnswer.html;
 
-  mcqBox.appendChild(questionBox);
-  mcqBox.appendChild(answerBox);
+//   mcqBox.appendChild(questionBox);
+//   mcqBox.appendChild(answerBox);
 
-  container.appendChild(mcqBox);
-}
+//   container.appendChild(mcqBox);
+// }
